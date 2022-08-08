@@ -1,12 +1,9 @@
-Stretchy Navigation
-=========
+# Maverick's Beauty Salon
+This is a website for a beauty salon loacted in Port-Harcourt,Nigeria. It contains their Story, a gallery of images of haricut and the service they offer
 
-A rounded navigation trigger that stretches on click/tap to reveal the navigation items.
-
-[Article on CodyHouse](http://codyhouse.co/gem/stretchy-navigation/)
-
-[Demo](http://codyhouse.co/demo/stretchy-navigation/index.html)
-
-Icons: [Nucleo](https://nucleoapp.com/)
- 
-[Terms](http://codyhouse.co/terms/)
+# The tools I used:
+- React
+- Bootstrap
+- SASS
+- CSS
+ It is responsive to every screen size
